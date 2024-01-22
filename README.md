@@ -65,7 +65,7 @@ This document will help to understand how to provision the AWS Infrastructure & 
 
 6. Ensure the Cluster is up and running my navigationg to AWS EKS console and do cross check the Terraform Outputs.
 	-	Below parameters have been described under outputs.tf file.
-				*	cluster_endpoint
-				*	cluster_security_group_id
-				*	region
-				*	cluster_name
+				*	Cluster_endpoint
+				*	Cluster_security_group_id
+				*	Region
+				*	Cluster_name
