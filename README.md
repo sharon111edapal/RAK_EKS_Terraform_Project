@@ -16,6 +16,9 @@ This document will help to understand how to provision the AWS Infrastructure & 
 3. EC2 key pair for instances creation
 4. Create an EKS cluster role with sufficient privilleges (EKS_Cluster_Role)
 
+# Execution Methodology
+
+
 1. Declare variables
 	-	Create  variables.tf file and declare below mentioned variables.
 
@@ -66,7 +69,7 @@ This document will help to understand how to provision the AWS Infrastructure & 
 6. Ensure the Cluster is up and running my navigationg to AWS EKS console and do cross check the Terraform Outputs.
 	-	Below parameters have been described under outputs.tf file.
 				
-                *	Cluster_endpoint
+                    *	Cluster_endpoint
 				*	Cluster_security_group_id
 				*	Region
 				*	Cluster_name
