@@ -1,4 +1,4 @@
-#####	RAK_EKS_Terraform_Project	#####
+#	RAK_EKS_Terraform_Project	
 
 This document will help to understand how to provision the AWS Infrastructure & EKS cluster to deploy the Java application.
 
